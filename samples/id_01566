@@ -1,0 +1,11 @@
+id=ImageMagick
+class=PseudoClass  colors=-56  matte=False
+columns=70  rows=46  depth=16
+signe=1ffa
+background-color=gray74  border-color=gray74  matte-color=gray74
+{
+
+Tis a comment.
+}
+
+:
