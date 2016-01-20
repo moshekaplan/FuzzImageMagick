@@ -1,7 +1,7 @@
 # FuzzImageMagick
 Sample files for fuzzing ImageMagick
 
-## Build instructions:##
+## ImageMagick Build instructions:##
 
 ### Vanilla Build: ###
 
