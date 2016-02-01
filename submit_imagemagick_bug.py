@@ -50,11 +50,11 @@ def submit_bug(filename, output):
 
     bug_title= "%s in %s" % (err_info, err_location)
 
-    git_version = get_git_commit('ImageMagick')
-    if not git_version:
-        git_version = "<unknown>"
+    git_commit = get_git_commit('ImageMagick')
+    if not git_commit:
+        git_commit = "<unknown>"
 
-    bug_description = bug_description_header + bug_description_version + (bug_description_command % bug_filename) + output
+    bug_description = bug_description_header + (bug_description_version % git_commit) + (bug_description_command % bug_filename) + output
     bug_comment = "input file to trigger crash"
     bug_filecontents = open(filename, 'rb').read()
 
