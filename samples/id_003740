@@ -1,0 +1,9 @@
+#?RGBE
+PRIMARIES=0.010152le_rgbe
+
+-yES=0.010152le_rgbe
+
+-y-bit-bit_rle_rgbe
+
+-y 32 +X 32
+
