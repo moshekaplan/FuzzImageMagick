@@ -1,11 +1,5 @@
-id=ImageMagick
-class=PseudoClass _height=256  matte=False
-columns=70  rows=46  depth=96
-signe=1ffa
-background-color=gray74  border-color=gray74  matte-color=gray74
-{
+#define t_width +1
+#defineBi_height 1
 
-Tis a comment.
-}
-
-:
+static char i_bits[] = {
+  0xf@, 

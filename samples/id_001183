@@ -1,1 +1,5 @@
-8BIM###"###&######F######&######F####@@@@@@@@@@@@@@@@@@@@@@@@PHKìÍâã¡¡¡¡¡€¡¡¡¡¡¡PHKì
+#define t_width 7
+#defineBi_height 8
+
+static char @_bits[] = {
+  0xfe, 0xf,))0x, Fx
