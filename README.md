@@ -4,7 +4,7 @@ Full setup for fuzzing ImageMagick. Currently (2016-02-07) covers over 30% of th
 ## 1. Download ImageMagick
     git clone https://github.com/ImageMagick/ImageMagick.git --depth 1
 
-## 2. Build ImageMagick##
+## 2. Build ImageMagick
 
 ### Vanilla Build:
 
